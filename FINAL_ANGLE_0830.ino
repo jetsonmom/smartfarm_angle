@@ -1,3 +1,5 @@
+#아두이노 우노 R4보드 코드,  워터펌프2개 LED, 쿨링팬이 구성됨
+
 #include <WiFi.h>
 #include <NTPClient.h>
 #include <WiFiUdp.h>
