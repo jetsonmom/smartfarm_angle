@@ -1,3 +1,5 @@
+// 아두이노 우노 r4, 온도센서 lcd추가
+
 #include <WiFi.h>
 #include <NTPClient.h>
 #include <WiFiUdp.h>
