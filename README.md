@@ -23,6 +23,8 @@ JetPack 4.6에는 OpenCV가 포함되어 있지만, Python 바인딩 확인:
 # 이미 설치된 OpenCV 확인
 python3 -c "import cv2; print(cv2.__version__)"
 ```
+dli@dli:~$ python3 -c "import cv2; print(cv2.__version__)"
+4.1.1
 
 만약 에러가 나면:
 ```bash
