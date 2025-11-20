@@ -105,5 +105,5 @@ python3 plant_monitor.py
 # 백그라운드 실행 (선택)
 nohup python3 plant_monitor.py > /dev/null 2>&1 &
 ```
+다시 정리하자면(에러가 나서 다시 정리)
 
-설치 중 문제가 있으면 알려주세요! 🌱
