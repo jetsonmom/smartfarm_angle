@@ -247,6 +247,8 @@ chmod +x plant_monitor.py
 
 ### 4️⃣ 테스트 (즉시 촬영/전송)
 
+
+
 ```bash
 cat > test_now.py << 'EOF'
 #!/usr/bin/env python3
@@ -297,6 +299,8 @@ EOF
 chmod +x test_now.py
 python3 test_now.py
 ```
+result
+<img width="1176" height="952" alt="image" src="https://github.com/user-attachments/assets/1cd82af9-b0d1-497d-a14b-3cb16d58a41b" />
 
 ### 5️⃣ 메인 프로그램 실행
 
