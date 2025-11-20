@@ -40,6 +40,11 @@ pip3 install opencv-python
 ```bash
 pip3 install schedule
 ```
+dli@dli:~$ pip3 install schedule
+Collecting schedule
+  Downloading https://files.pythonhosted.org/packages/eb/3b/040bd180eaef427dd160562ee66adc9f4f67088185c272edcdb899c609c7/schedule-1.1.0-py2.py3-none-any.whl
+Installing collected packages: schedule
+Successfully installed schedule-1.1.0
 
 ## 5. V4L2 관련 패키지 설치 (카메라 지원)
 ```bash
