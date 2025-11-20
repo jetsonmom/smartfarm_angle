@@ -36,7 +36,7 @@ logging.basicConfig(
 # 이메일 설정
 EMAIL_CONFIG = {
     'address': 'jmerrier0910@gmail.com',
-    'password': 'smvrcqoizxbxmyhy',  # 앱 비밀번호
+    'password': '',  # 앱 비밀번호
     'smtp_server': 'smtp.gmail.com',
     'smtp_port': 465
 }
